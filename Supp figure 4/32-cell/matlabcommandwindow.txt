@@ -1,0 +1,299 @@
+Next file 
+em1_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-32.5703
+Threshold ICM-23.7723
+File saved.
+...................
+Next file 
+em1_14Dec16E35CAGGFPxPDGF10amEcadCdx2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-37.7218
+Threshold ICM-25.3006
+File saved.
+...................
+Next file 
+em2_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-32.0176
+Threshold ICM-24.5715
+File saved.
+...................
+Next file 
+em2_14Dec16E35CAGGFPxPDGF10amEcadCdx2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 35 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-29.7483
+Threshold ICM-21.3602
+File saved.
+...................
+Next file 
+em2_20Jul18E325H2BxCd1eCadASox2.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-28.1735
+Threshold ICM-22.6874
+File saved.
+...................
+Next file 
+em3_7Aug17variaOct4GATA6eCad.xls
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-39.2668
+Threshold ICM-27.0848
+File saved.
+...................
+Next file 
+em3_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-42.1018
+Threshold ICM-33.1113
+File saved.
+...................
+Next file 
+em4_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-40.2403
+Threshold ICM-26.1395
+File saved.
+...................
+Next file 
+em4_14May18E30H2BxCD1EcadSox2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 29 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-38.4832
+Threshold ICM-27.1116
+File saved.
+...................
+Next file 
+em4_20Jul18E325H2BxCd1eCadASox2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-30.1323
+Threshold ICM-23.9984
+File saved.
+...................
+Next file 
+em5_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-30.4169
+Threshold ICM-23.6265
+File saved.
+...................
+Next file 
+em5_14May18E30H2BxCD1EcadSox2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 35 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-31.7449
+Threshold ICM-25.0001
+File saved.
+...................
+Next file 
+em5_20Jul18E325H2BxCd1eCadASox2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-29.8665
+Threshold ICM-23.8683
+File saved.
+...................
+Next file 
+em6_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-29.9124
+Threshold ICM-22.4308
+File saved.
+...................
+Next file 
+em6_9Jul18E275and375PdxCDecadSox2001.xls
+Number of cells - 29 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-28.4863
+Threshold ICM-23.7196
+File saved.
+...................
+Next file 
+em6_14May18E30H2BxCD1EcadSox2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-28.6258
+Threshold ICM-24.5244
+File saved.
+...................
+Next file 
+em6_20Jul18E325H2BxCd1eCadASox2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-31.2231
+Threshold ICM-24.1307
+File saved.
+...................
+Next file 
+em7_7Aug17variaSOX2Ecad.xls
+Channel 4=false, only three channels present.
+Number of cells - 33 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-37.7741
+Threshold ICM-24.3724
+File saved.
+...................
+Next file 
+em7_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-36.8578
+Threshold ICM-27.2113
+File saved.
+...................
+Next file 
+em7_14May18E30H2BxCD1EcadSox2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-37.9837
+Threshold ICM-30.1348
+File saved.
+...................
+Next file 
+em7_20Jul18E325H2BxCd1eCadASox2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 29 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-30.6979
+Threshold ICM-23.2736
+File saved.
+...................
+Next file 
+em7_27jun18cdxpd9pmecadgata4snail001.xls
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-25.3424
+Threshold ICM-22.8932
+File saved.
+...................
+Next file 
+em8_20Jul18E325H2BxCd1eCadASox2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-32.4932
+Threshold ICM-23.7188
+File saved.
+...................
+Next file 
+em9_7June19E3.5PDxCD110amEcadSOX2CDX2.xls
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-35.2069
+Threshold ICM-27.7688
+File saved.
+...................
+Next file 
+em9_14May18E30H2BxCD1EcadSox2003.xls
+Channel 4=false, only three channels present.
+Number of cells - 30 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-36.4151
+Threshold ICM-24.8938
+File saved.
+...................
+Next file 
+em9_20Jul18E325H2BxCd1eCadASox2003.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-30.0638
+Threshold ICM-23.6717
+File saved.
+...................
+Next file 
+em10_12July13E275andE35PDxCDeCadSox2002.xls
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-33.4825
+Threshold ICM-21.8481
+File saved.
+...................
+Next file 
+em10_14May18E30H2BxCD1EcadSox2003.xls
+Channel 4=false, only three channels present.
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-30.7909
+Threshold ICM-27.2789
+File saved.
+...................
+Next file 
+em10_20Jul18E325H2BxCd1eCadASox2003.xls
+Channel 4=false, only three channels present.
+Number of cells - 31 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-28.6917
+Threshold ICM-24.257
+File saved.
+...................
+Next file 
+em11_20Jul18E325H2BxCd1eCadASox2004.xls
+Channel 4=false, only three channels present.
+Number of cells - 29 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-31.2896
+Threshold ICM-24.3503
+File saved.
+...................
+Next file 
+em13_20Jul18E325H2BxCd1eCadASox2004.xls
+Channel 4=false, only three channels present.
+Number of cells - 32 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold TE-29.6982
+Threshold ICM-24.3849
+File saved.
+...................
+All files processed.

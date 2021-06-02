@@ -1,0 +1,414 @@
+Next file 
+em1_6Dec17E25PDxCD1Oct4Klf4.xls
+Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'PreserveVariableNames' to true to use the original column headers as table
+variable names. 
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-50.5306
+File saved.
+...................
+Next file 
+em1_7Aug17variaSOX2Ecad.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-41.583
+File saved.
+...................
+Next file 
+em1_7Aug17variaSox2EcadB.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.5442
+File saved.
+...................
+Next file 
+em1_21Mat19PDxCDE25and35ecadGata4Sox2.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-34.0889
+File saved.
+...................
+Next file 
+em1_28Nov16E25and35GPIxPDKlf4Ecad001.xls
+Channel 4=false, only three channels present.
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-48.1813
+File saved.
+...................
+Next file 
+em2_6Dec17E25PDxCD1Oct4Klf4.xls
+Channel 4=false, only three channels present.
+Number of cells - 9 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-33.4965
+File saved.
+...................
+Next file 
+em2_7Aug17variaOct4EcadKlf4.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-41.2338
+File saved.
+...................
+Next file 
+em2_21Mar18E25and35PDxH2b12pmEcadSOX2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-33.0248
+File saved.
+...................
+Next file 
+em2_24May198and16cellH2b430pmEcadSox2CDX2.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-32.8395
+File saved.
+...................
+Next file 
+em3_7Aug17variaSox2EcadB.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-34.3903
+File saved.
+...................
+Next file 
+em3_9July18E375and275PdxCDeCadSox2001.xls
+Channel 4=false, only three channels present.
+Number of cells - 10 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.3831
+File saved.
+...................
+Next file 
+em3_21Mar18E25and35PDxH2b12pmEcadSOX2002.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-50.449
+File saved.
+...................
+Next file 
+em3_24Nov16E25and35H2BKlf4Gata6.xls
+Channel 4=false, only three channels present.
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-34.2462
+File saved.
+...................
+Next file 
+em3_28Nov16E25and35GPIxPDKlf4Ecad002.xls
+Channel 4=false, only three channels present.
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-30.5156
+File saved.
+...................
+Next file 
+em4_6Dec17E25PDxCD1Oct4Klf4.xls
+Channel 4=false, only three channels present.
+Number of cells - 9 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.2178
+File saved.
+...................
+Next file 
+em4_21Mar19E45E15E8cellCdxPD11eCadGata4Snail.xls
+Number of cells - 10 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.9189
+File saved.
+...................
+Next file 
+em4_24May198and16cellH2b430pmEcadSox2CDX2.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-38.0673
+File saved.
+...................
+Next file 
+em4_28Nov16E25and35GPIxPDKlf4Ecad002.xls
+Channel 4=false, only three channels present.
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.9787
+File saved.
+...................
+Next file 
+em5_6Dec17E25PDxCD1Oct4Klf4.xls
+Channel 4=false, only three channels present.
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-32.034
+File saved.
+...................
+Next file 
+em5_7Aug17variaSOX2EcadA.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-39.4194
+File saved.
+...................
+Next file 
+em5_7Aug17variaSox2EcadB.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-32.373
+File saved.
+...................
+Next file 
+em5_24May198and16cellH2b430pmEcadSox2CDX2001.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-39.3086
+File saved.
+...................
+Next file 
+em5_28Nov16E25and35GPIxPDKlf4Ecad002.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.3448
+File saved.
+...................
+Next file 
+em6_21Mar19E45E15E8cellCdxPD11eCadGata4Snail001.xls
+Number of cells - 9 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-41.4168
+File saved.
+...................
+Next file 
+em6_24May198and16cellH2b430pmEcadSox2CDX2001.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.5991
+File saved.
+...................
+Next file 
+em6_27jun18cdxpd9pmecadgata4snail001.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-28.7519
+File saved.
+...................
+Next file 
+em7_7Aug17variaOct4GATA6eCad001.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-38.3537
+File saved.
+...................
+Next file 
+em7_7Aug17variaSox2EcadB.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-30.5067
+File saved.
+...................
+Next file 
+em7_9Jul18E275and375PdxCDecadSox2001.xls
+Number of cells - 9 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.2579
+File saved.
+...................
+Next file 
+em7_21Mar19E45E15E8cellCdxPD11eCadGata4Snail001.xls
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.143
+File saved.
+...................
+Next file 
+em7_24May198and16cellH2b430pmEcadSox2CDX2001.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-34.0205
+File saved.
+...................
+Next file 
+em8_7Aug17variaOct4GATA6eCad001.xls
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-40.3905
+File saved.
+...................
+Next file 
+em8_7Aug17variaSOX2EcadA.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-33.6335
+File saved.
+...................
+Next file 
+em8_28Nov16E25and35GPIxPDKlf4Ecad003.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-39.6066
+File saved.
+...................
+Next file 
+em10_24May198and16cellH2b430pmEcadSox2CDX2002.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-53.0496
+File saved.
+...................
+Next file 
+em11_7Aug17variaSOX2EcadA001.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-39.5755
+File saved.
+...................
+Next file 
+em21_22Mar18E25E35PDxH2BnoonGata6Nanog.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-42.0294
+File saved.
+...................
+Next file 
+em23_22Mar18E25E35PDxH2BnoonGata6Nanog001.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-33.0427
+File saved.
+...................
+Next file 
+em24_22Mar18E25E35PDxH2BnoonGata6Nanog001.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-32.926
+File saved.
+...................
+Next file 
+em26_22Mar18E25E35PDxH2BnoonGata6Nanog002.xls
+Channel 4=false, only three channels present.
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-38.9142
+File saved.
+...................
+Next file 
+em30_15Feb19E45CD2pmGATA6Nanog002.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-33.9704
+File saved.
+...................
+Next file 
+em51_21Mar19E45cellCdxPDeCadGata6Nanog.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.29
+File saved.
+...................
+Next file 
+em52_21Mar19E45cellCdxPDeCadGata6Nanog001.xls
+Number of cells - 7 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-43.4989
+File saved.
+...................
+Next file 
+em54_21Mar19E45cellCdxPDeCadGata6Nanog002.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-44.9881
+File saved.
+...................
+Next file 
+em55_21Mar19E45cellCdxPDeCadGata6Nanog002.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.0491
+File saved.
+...................
+Next file 
+em56_21Mar19E45cellCdxPDeCadGata6Nanog002.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.7948
+File saved.
+...................
+Next file 
+em58_21Mar19E45cellCdxPDeCadGata6Nanog003.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-35.6071
+File saved.
+...................
+Next file 
+em59_21Mar19E45cellCdxPDeCadGata6Nanog003.xls
+Number of cells - 8 
+Shrink Factor- 0.0000 
+Number of cells re-assgined- 0 
+Threshold-37.6186
+File saved.
+...................
+All files processed.
